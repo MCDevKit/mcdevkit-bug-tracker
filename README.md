@@ -1,2 +1,2 @@
-# mcdevkit-bug-tracker
+# MCDevKit Bug Tracker
 The official bug tracker for MCDevKit apps
